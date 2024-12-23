@@ -1,2 +1,2 @@
 # dottedly-server
-dottedly (Miro like fo IA)
+dottedly (Miro like foк IA)
